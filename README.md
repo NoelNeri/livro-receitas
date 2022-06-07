@@ -3,4 +3,4 @@
 Olá! Benvindo a meu livro de receitas!
 
 - Strognoff de frango
-- ok
+- Pavê
