@@ -4,5 +4,5 @@ Olá! Benvindo a meu livro de receitas!
 
 - Strognoff de frango
 - Pavê
-- Puman
+- Bolo de fubá
 - Xcake
